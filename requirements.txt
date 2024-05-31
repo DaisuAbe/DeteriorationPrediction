@@ -1,1 +1,5 @@
-numpy==1.23.2scikit-learn==1.4.0matplotlib-base==3.6.3pandas==1.5.3xgboost==1.7.1
+numpy==1.23.2
+scikit-learn==1.4.0
+matplotlib-base==3.6.3
+pandas==1.5.3
+xgboost==1.7.1
