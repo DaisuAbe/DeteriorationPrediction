@@ -6,7 +6,7 @@ This is a repository in which anyone can use our model to predict neurological d
 We run the code below on Python 3.9 with the packages listed in requiements.txt.
 
 ## How to use
-First, you need to overwrite the "demo-data" with your data and implement "XGBoost_model.py". You will obtain the probability of your data, and you will also obtain the 1 or 0 result judged from the cutoff value that we set in our article.
+First, you need to overwrite the "demo-data" with your data and implement "Make_Prediction.py". You will obtain the probability of your data, and you will also obtain the 1 or 0 result judged from the cutoff value that we set in our article.
 
 
 Input for each feature 
